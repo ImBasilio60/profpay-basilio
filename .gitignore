@@ -1,0 +1,9 @@
+node_modules/
+public/css/
+public/js/
+public/less/
+public/metadata/
+public/scss/
+public/sprites/
+public/svgs/
+public/webfonts/

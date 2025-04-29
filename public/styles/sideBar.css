@@ -1,0 +1,22 @@
+/* sidebar */
+.menu-item:hover {
+  background-color: #374151 !important;
+}
+.menu-item.active {
+  background-color: #374151 !important;
+}
+
+/* notification */
+
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background-color: #cbd5e0; /* gris clair */
+  border-radius: 6px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
